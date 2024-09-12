@@ -1,8 +1,36 @@
-# React + Vite
+# Gemini AI Clone - Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview
 
-Currently, two official plugins are available:
+Gemini AI Clone is a web-based application that mimics the functionality of the original Gemini AI. This project is the **frontend** part of the Gemini AI clone, responsible for rendering the user interface and interacting with the backend to process user queries.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Real-time user input:** Type queries in a responsive interface.
+- **Dynamic AI responses:** Fetch AI responses from the backend and display them.
+- **Minimalist Design:** Clean and user-friendly interface.
+- **Mobile Friendly:** Fully responsive design for both mobile and desktop devices.
+
+## Tech Stack
+
+- **React.js**: Frontend framework for building the user interface.
+- **HTML5 & CSS3**: Markup and styling.
+- **JavaScript (ES6)**: For handling frontend logic.
+- **Axios/Fetch**: For making API calls to the backend.
+
+## Installation
+
+To get a local copy up and running, follow these steps:
+
+### Prerequisites
+
+Make sure you have the following installed on your system:
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
+
+### Clone the repository
+
+```bash
+git clone https://github.com/your-username/gemini-ai-frontend.git
+cd gemini-ai-frontend
